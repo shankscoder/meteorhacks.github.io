@@ -6,3 +6,4 @@ exclude:
 - README.md
 - Rakefile
 - post.sh
+theme: jekyll-theme-minimal
